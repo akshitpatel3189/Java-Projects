@@ -20,10 +20,7 @@ The application contains **3 prominent roles**:
 **2. Restaurants –** Restaurants can register with Foodverse and add their menus and food items to the app. They serve orders from customers.
 **3. Customers –** Customers can view, search, and filter food items. They can add items to the cart and order them. They also can give reviews about food items.
 
-
-
-
-There are features:
+There are **6 features**:
 
 **1. Admin panel -**  Accept the restaurant’s request to sell their food on Foodverse and admin can also delete the restaurant from the Foodverse. Admin will be given an option to do analytics. For example, Admin can see which restaurant has the greatest number of orders and customers from which area are ordering the food most of the time.
 
