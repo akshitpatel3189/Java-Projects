@@ -7,9 +7,13 @@ It's an online food ordering system. Written in Java code using the SpringBoot f
 ## Tools and Technology
 
 **Frontend:**  HTML-CSS, Java Script
+
 **Backend:**   Spring Boot framework
+
 **IDE:**           IntelliJ IDEA, VS Code
+
 **Testing:**     Junit
+
 **Database:** MySQL Workbench
 
 # Discription
